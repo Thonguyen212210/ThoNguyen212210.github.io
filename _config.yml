@@ -1,16 +1,15 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Tho Nguyen's Blog
+email:              phuctho.contact@gmail.com
+description:        A technical blog - Tips & Tricks
+author:             Tho Nguyen
 baseurl:            ""
 url:                "https://thonguyen212210.github.io"
 
-# Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+# Social Profiles   
+github_username:    Thonguyen212210
+facebook_username:  Thọ Nguyễn
+instagram_username:  thonguyen2210.in
+linkedin_username:  THO NGUYEN DUY PHUC
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
